@@ -19,6 +19,7 @@ const SideBar = () => {
 
   return (
     <>
+    
       <IconButton onClick={() => setOpen(true)}
         sx={{
           position: 'fixed',
