@@ -1,0 +1,184 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "team": "India",
+      "matches": 8,
+      "wins": 8,
+      "overallRuns": 1256,
+      "fours": 118,
+      "sixes": 54
+    },
+    {
+      "id": 2,
+      "team": "South Africa",
+      "matches": 9,
+      "wins": 8,
+      "overallRuns": 1124,
+      "fours": 105,
+      "sixes": 48
+    },
+    {
+      "id": 3,
+      "team": "West Indies",
+      "matches": 7,
+      "wins": 5,
+      "overallRuns": 1122,
+      "fours": 96,
+      "sixes": 62
+    },
+    {
+      "id": 4,
+      "team": "Australia",
+      "matches": 7,
+      "wins": 5,
+      "overallRuns": 1033,
+      "fours": 91,
+      "sixes": 45
+    },
+    {
+      "id": 5,
+      "team": "Afghanistan",
+      "matches": 8,
+      "wins": 5,
+      "overallRuns": 1010,
+      "fours": 88,
+      "sixes": 51
+    },
+    {
+      "id": 6,
+      "team": "United States of America",
+      "matches": 6,
+      "wins": 2,
+      "overallRuns": 903,
+      "fours": 72,
+      "sixes": 31
+    },
+    {
+      "id": 7,
+      "team": "England",
+      "matches": 8,
+      "wins": 4,
+      "overallRuns": 894,
+      "fours": 84,
+      "sixes": 43
+    },
+    {
+      "id": 8,
+      "team": "Bangladesh",
+      "matches": 7,
+      "wins": 3,
+      "overallRuns": 890,
+      "fours": 76,
+      "sixes": 34
+    },
+    {
+      "id": 9,
+      "team": "Pakistan",
+      "matches": 4,
+      "wins": 2,
+      "overallRuns": 503,
+      "fours": 45,
+      "sixes": 21
+    },
+    {
+      "id": 10,
+      "team": "Scotland",
+      "matches": 4,
+      "wins": 2,
+      "overallRuns": 490,
+      "fours": 42,
+      "sixes": 19
+    },
+    {
+      "id": 11,
+      "team": "Netherlands",
+      "matches": 4,
+      "wins": 1,
+      "overallRuns": 464,
+      "fours": 39,
+      "sixes": 18
+    },
+    {
+      "id": 12,
+      "team": "Oman",
+      "matches": 3,
+      "wins": 0,
+      "overallRuns": 441,
+      "fours": 37,
+      "sixes": 16
+    },
+    {
+      "id": 13,
+      "team": "Namibia",
+      "matches": 4,
+      "wins": 1,
+      "overallRuns": 441,
+      "fours": 38,
+      "sixes": 17
+    },
+    {
+      "id": 14,
+      "team": "Canada",
+      "matches": 4,
+      "wins": 2,
+      "overallRuns": 437,
+      "fours": 36,
+      "sixes": 18
+    },
+    {
+      "id": 15,
+      "team": "Sri Lanka",
+      "matches": 3,
+      "wins": 1,
+      "overallRuns": 402,
+      "fours": 34,
+      "sixes": 15
+    },
+    {
+      "id": 16,
+      "team": "Papua New Guinea",
+      "matches": 3,
+      "wins": 0,
+      "overallRuns": 386,
+      "fours": 31,
+      "sixes": 14
+    },
+    {
+      "id": 17,
+      "team": "New Zealand",
+      "matches": 4,
+      "wins": 2,
+      "overallRuns": 331,
+      "fours": 29,
+      "sixes": 12
+    },
+    {
+      "id": 18,
+      "team": "Ireland",
+      "matches": 3,
+      "wins": 0,
+      "overallRuns": 327,
+      "fours": 27,
+      "sixes": 11
+    },
+    {
+      "id": 19,
+      "team": "Nepal",
+      "matches": 4,
+      "wins": 0,
+      "overallRuns": 305,
+      "fours": 25,
+      "sixes": 13
+    },
+    {
+      "id": 20,
+      "team": "Uganda",
+      "matches": 4,
+      "wins": 1,
+      "overallRuns": 215,
+      "fours": 18,
+      "sixes": 8
+    }
+  ]
+}
