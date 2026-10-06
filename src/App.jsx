@@ -25,10 +25,11 @@ const App = () => {
       <Box sx={{ backgroundColor: '#f5f6fa', minHeight: '100vh' }}>
 
         <Box sx={{ ml: { xs: 0, sm: 25 }, p: { xs: 2, sm: 3, md: 5 } }}>
+
           <Grid container spacing={3} sx={{ mb: 3 }}>
             <Grid size={{ xs: 12, md: 4 }}>
               <Box sx={{ p: 3, borderRadius: 2, backgroundColor: '#fff8dc', border: '1px solid #f1c40f' }}>
-                <Typography fontWeight="bold">🥇 Winner Team</Typography>
+                <Typography fontWeight="bold">🏆Winner Team</Typography>
                 <Typography variant="h5" fontWeight="bold" mt={1}>India</Typography>
                 <Typography>8 Wins</Typography>
               </Box>
@@ -36,7 +37,7 @@ const App = () => {
 
             <Grid size={{ xs: 12, md: 4 }}>
               <Box sx={{ p: 3, borderRadius: 2, backgroundColor: '#eeeeee', border: '1px solid #999' }}>
-                <Typography fontWeight="bold">🥈 Runner Up</Typography>
+                <Typography fontWeight="bold">🥈Runner Up</Typography>
                 <Typography variant="h5" fontWeight="bold" mt={1}>South Africa</Typography>
                 <Typography>8 Wins</Typography>
               </Box>
@@ -44,7 +45,7 @@ const App = () => {
 
             <Grid size={{ xs: 12, md: 4 }}>
               <Box sx={{ p: 3, borderRadius: 2, backgroundColor: '#e3f2fd', border: '1px solid #2196f3' }}>
-                <Typography fontWeight="bold">⭐ Player of the Tournament</Typography>
+                <Typography fontWeight="bold">🏅Player of the Tournament</Typography>
                 <Typography variant="h5" fontWeight="bold" mt={1}>Jasprit Bumrah</Typography>
                 <Typography>15 Wickets</Typography>
               </Box>
@@ -52,7 +53,7 @@ const App = () => {
 
             <Grid size={{ xs: 12, md: 4 }}>
               <Box sx={{ p: 3, borderRadius: 2, backgroundColor: '#effaae', border: '1px solid #d0f112' }}>
-                <Typography fontWeight="bold">⭐ Average Score</Typography>
+                <Typography fontWeight="bold">💯Average Score</Typography>
                 <Typography variant="h5" fontWeight="bold" mt={1}>{averageScore}</Typography>
                 <Typography>Runs per Team</Typography>
               </Box>
